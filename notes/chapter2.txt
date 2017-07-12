@@ -1,1 +1,5 @@
+Resources
 
+- Gradle Build Language Reference Guide at http://www.gradle.org/docs/current/dsl/index.html.
+
+- Need to learn Groovy -> Groovy in Action or similar book
